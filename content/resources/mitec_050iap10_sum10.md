@@ -4,7 +4,12 @@ description: 'This resource contains the information about the observing with li
   motions and roller coasters. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/6f189043de41b5ae4472203c86198732_MITEC_050IAP10_sum10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Summary 10
+type: OCWFile
 uid: 6f189043-de41-b5ae-4472-203c86198732
 ---

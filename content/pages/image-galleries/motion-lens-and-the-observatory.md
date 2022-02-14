@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Motion, Lens and the Observatory
+type: CourseSection
 uid: 45b4d2da-8505-7fa9-1b8d-ed1db8e1d195
 ---
 

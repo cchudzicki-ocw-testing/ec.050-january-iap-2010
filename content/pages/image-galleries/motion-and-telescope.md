@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Motion and Telescope
+type: CourseSection
 uid: 1c7abb95-9511-7e57-e751-3c3b66e4c637
 ---
 

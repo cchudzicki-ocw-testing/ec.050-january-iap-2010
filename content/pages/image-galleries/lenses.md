@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Lenses
+type: CourseSection
 uid: 3a42a38d-9035-f6cb-e8a4-947e3cb57ec9
 ---
 

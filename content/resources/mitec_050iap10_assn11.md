@@ -3,7 +3,12 @@ content_type: resource
 description: This file contains information regarding assignment 11.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/60f608159c3e4385b6798f37fd4cbdbc_MITEC_050IAP10_assn11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Reflective Paper
+type: OCWFile
 uid: 60f60815-9c3e-4385-b679-8f37fd4cbdbc
 ---

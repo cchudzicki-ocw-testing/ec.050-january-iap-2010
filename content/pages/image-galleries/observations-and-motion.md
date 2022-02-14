@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Observations and Motion
+type: CourseSection
 uid: 60d8ea65-c9fc-e44b-0958-399a36777ff3
 ---
 

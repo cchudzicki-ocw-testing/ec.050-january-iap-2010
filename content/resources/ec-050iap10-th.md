@@ -10,7 +10,9 @@ image_metadata:
   credit: Photo courtesy of MIT Student.
   image-alt: Two photographs of buildings and trees that illustrate daily scenes surrounding
     us.
+learning_resource_types: []
 resourcetype: Image
 title: ec-050iap10-th.jpg
+type: OCWImage
 uid: de2e7c68-881a-2447-a2c9-1846bce11718
 ---

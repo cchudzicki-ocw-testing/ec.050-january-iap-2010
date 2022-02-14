@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Tubes, Frames, Lenses and Mirrors
+type: CourseSection
 uid: da9c7976-ec2b-1116-2e7e-1f777c6f19c3
 ---
 
