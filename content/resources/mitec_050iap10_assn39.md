@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Excerpts on Motion
-type: OCWFile
 uid: 87b0bbcf-7727-6f50-7e65-4adaaf6f7fb0
 ---

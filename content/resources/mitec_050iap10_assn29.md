@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Activity and Observing
-type: OCWFile
 uid: 16339b9a-7d52-589a-9b97-cdcd78b55a0b
 ---

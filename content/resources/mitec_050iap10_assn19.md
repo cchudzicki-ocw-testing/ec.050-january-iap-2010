@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: My Story of Encountering Galileo
-type: OCWFile
 uid: 25649391-66a5-764f-e7ee-1970e24d491d
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Experiments and Experience
-type: OCWFile
 uid: 2ddf8091-fd49-e98d-d8cf-7e3404113b12
 ---

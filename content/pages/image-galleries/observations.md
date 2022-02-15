@@ -5,7 +5,6 @@ parent_title: Image Galleries
 parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Observations
-type: CourseSection
 uid: 09d4b066-c954-9fb7-b6b9-d0fbb82f4379
 ---
 

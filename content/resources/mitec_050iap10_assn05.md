@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Responses to Galileo
-type: OCWFile
 uid: 7f397b95-6569-db0c-d1c5-31f3eaf802b6
 ---

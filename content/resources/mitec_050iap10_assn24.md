@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Perspective Activity
-type: OCWFile
 uid: 646c45fe-9589-b038-9396-635395cf92d8
 ---

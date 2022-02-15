@@ -5,7 +5,6 @@ parent_title: Image Galleries
 parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Slide Rule
-type: CourseSection
 uid: b53fe68f-10e2-2417-1cf4-0063e3aa65d8
 ---
 

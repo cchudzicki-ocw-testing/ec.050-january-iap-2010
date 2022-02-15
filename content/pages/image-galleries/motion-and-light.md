@@ -5,7 +5,6 @@ parent_title: Image Galleries
 parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Motion and Light
-type: CourseSection
 uid: fbd800a3-3869-b8fd-301e-06d780a7360c
 ---
 

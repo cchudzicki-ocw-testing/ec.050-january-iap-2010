@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Harold "Doc" Edgerton
-type: OCWFile
 uid: 3cb4bd1f-db1a-2429-a102-4722922dd3f0
 ---

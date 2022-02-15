@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Carry on History
-type: OCWFile
 uid: f1a08f73-fa74-4c58-76d6-a678b409adad
 ---

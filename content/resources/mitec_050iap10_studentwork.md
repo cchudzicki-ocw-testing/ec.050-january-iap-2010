@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: SES Assignment
-type: OCWFile
 uid: dd1764e4-d5f7-cafc-58ba-400fc3eefecc
 ---

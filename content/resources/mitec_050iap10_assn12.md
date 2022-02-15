@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Reflecting on Galileo
-type: OCWFile
 uid: bd30f7bb-d286-7ac4-5678-baea6fe15fc0
 ---

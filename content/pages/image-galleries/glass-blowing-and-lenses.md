@@ -5,7 +5,6 @@ parent_title: Image Galleries
 parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Glass Blowing and Lenses
-type: CourseSection
 uid: 52359a2b-465b-b053-08c6-9cabe4b1e911
 ---
 

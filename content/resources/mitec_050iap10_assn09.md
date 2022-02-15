@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Class Notes
-type: OCWFile
 uid: a42aea3d-2cf1-9da0-9da5-4a1b7cdf9982
 ---

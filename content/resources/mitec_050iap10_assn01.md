@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Reflective Paper
-type: OCWFile
 uid: 9f55e716-3566-4182-2f16-d929abf55b69
 ---

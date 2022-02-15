@@ -5,7 +5,6 @@ parent_title: Image Galleries
 parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Light
-type: CourseSection
 uid: bc4e345a-0995-d6fb-e46e-dc056e61274a
 ---
 

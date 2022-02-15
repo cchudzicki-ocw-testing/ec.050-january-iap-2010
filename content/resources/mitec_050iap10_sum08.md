@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Summary 8
-type: OCWFile
 uid: dd9a279f-5b3b-c896-c4e5-3a851ba5948a
 ---

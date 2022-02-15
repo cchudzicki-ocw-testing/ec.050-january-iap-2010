@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Exploration
-type: OCWFile
 uid: e5eddd8e-04a3-7e11-442b-b3b157e44311
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Lenses and Light Explorations
-type: OCWFile
 uid: 7e641816-2d68-b0b0-2cca-7b34774b50fa
 ---

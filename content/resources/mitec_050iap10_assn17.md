@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Letter to Mr. Galileo
-type: OCWFile
 uid: 02587447-6920-8067-e753-2a6e086089b1
 ---
